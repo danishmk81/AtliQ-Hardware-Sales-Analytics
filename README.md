@@ -2,9 +2,9 @@ Atliq-Sales-Analytics
 In this project I work on creating reports in excel for AtliQ Hardware's finance and sales department which can help both the teams
 in taking crucial decisions in order to expand there business and make an impactable market presence around the globe.
 
-In finance report I have prepare the Profit & Loss statement including Net Sales, Cost of Goods Sold (COGS), Gross Margin (GM) and GM % for a
-particular fiscal year and also for a particular month and quarter. In sales report I have prepare the Customer Performance Report and Market
-Performance Report for a particular region, division and country.
+I have prepare the Profit & Loss statement including Net Sales, Cost of Goods Sold (COGS), Gross Margin (GM) and GM % for a
+particular fiscal year and also for quarter. I have prepare the Customer Performance Report and Market
+Performance Report, Top 10, Top 5 Countries, and Top 10 Products report.
 
 Task Performed:
 
